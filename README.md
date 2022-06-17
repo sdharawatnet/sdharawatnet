@@ -10,5 +10,5 @@ I'm a Front End Developer!
 - ⚙️ My day to day: JavaScript, React, AWS S3/ Textract, Git(Haha ofcourse), Nodejs, SASS, Python (Occasionally on AWS Lambda)
 - 🌱 Learning all about Open Source
 - 💬 Let's talk about design, development and design thinking
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/stweet_d)
+- 📫 Reach me: [twitter.com/stweet_d](https://twitter.com/stweet_d)
 - ⚡️ Fun fact: I have produced my own hip hop tracks and they are on soundcloud! https://soundcloud.com/swapnil-dharawat/tracks

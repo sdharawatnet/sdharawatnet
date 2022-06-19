@@ -6,7 +6,7 @@
 
 ## BIO
 
-- 🏢 I'm currently working at Johnson and Johnson! 
+- 🏢 Working at Johnson and Johnson! 
 - ⚙️ My day to day: JavaScript, React, AWS S3/ Textract, Git(Haha ofcourse), Nodejs, SASS, Python (Occasionally on AWS Lambda)
 - 🌱 Learning all about Open Source
 - 💬 Let's talk about design, development and design thinking

@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/29270745/174399568-343d3e6c-2a3d-46ac-a1b8-06e4e0ba7777.png)
 
 
-**I'm a Front End Developer!**
+**I'm serving from the Front End of the Development world currently!**
 
 ## BIO
 

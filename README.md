@@ -1,4 +1,4 @@
-# Hi, I'm Swapnil 👋
+# Hi 👋
 
 Full-stack developer building scalable web applications and exploring AI-powered tools.
 
